@@ -6598,7 +6598,7 @@ a.close.disabled {
   z-index: 10;
   padding-top: 20px;
   padding-bottom: 20px;
-	background:#92b9b7;
+	background: rgba(0, 0, 0, 0.72);
   color: #fff;
   text-align: center;
 }
