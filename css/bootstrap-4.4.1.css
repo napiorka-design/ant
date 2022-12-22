@@ -2917,14 +2917,14 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-success {
-  color: #28a745;
-  border-color: #AC9E97;
+  color: #633327;
+  border-color: #633327;
 }
 
 .btn-outline-success:hover {
   color: #fff;
-  background-color: #2F5030;
-  border-color: #2F5030;
+  background-color: #633327;
+  border-color: #633327;
 }
 
 .btn-outline-success:focus, .btn-outline-success.focus {
