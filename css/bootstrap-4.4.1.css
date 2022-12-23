@@ -384,6 +384,9 @@ h5, .h5 {
   font-size: 1.25rem;
   color: #633327;	
 }
+.h5-slide {
+  color:white;
+}
 
 h6, .h6 {
   font-size: 1rem;
