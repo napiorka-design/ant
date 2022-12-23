@@ -2926,7 +2926,9 @@ fieldset:disabled a.btn {
 
 .btn-outline-success:hover {
   color: #fff;
+
   background-color: #67590c;
+
   border-color: #633327;
 }
 
@@ -3113,12 +3115,12 @@ fieldset:disabled a.btn {
 
 .btn-link {
   font-weight: 400;
-  color: #007bff;
+  color: #;
   text-decoration: none;
 }
 
 .btn-link:hover {
-  color: #0056b3;
+  color: #;
   text-decoration: underline;
 }
 
@@ -4241,6 +4243,7 @@ input[type="button"].btn-block {
 .nav-link {
   display: block;
   padding: 0.5rem 1rem;
+  color: #000000;	
 }
 
 .nav-link:hover, .nav-link:focus {
@@ -6600,7 +6603,7 @@ a.close.disabled {
   z-index: 10;
   padding-top: 20px;
   padding-bottom: 20px;
-	background:#92b9b7;
+	background: rgba(0, 0, 0, 0.72);
   color: #fff;
   text-align: center;
 }
