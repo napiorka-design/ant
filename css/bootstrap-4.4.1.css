@@ -369,6 +369,7 @@ h1, .h1 {
 
 h2, .h2 {
   font-size: 2rem;
+  color: #633327;
 }
 
 h3, .h3 {
@@ -377,10 +378,15 @@ h3, .h3 {
 
 h4, .h4 {
   font-size: 1.5rem;
+  color: #633327;	
 }
 
 h5, .h5 {
   font-size: 1.25rem;
+  color: #633327;	
+}
+.h5-slide {
+  color:white;
 }
 
 h6, .h6 {
@@ -2559,20 +2565,20 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #2F5030;
-  border-color: #2F5030;
+  background-color: #67590c;
+  border-color:#67590C;
 }
 
 .btn-primary:hover {
   color: #fff;
-  background-color: #B0CB9D;
-  border-color: #B0CB9D;
+  background-color: #633327;
+  border-color: #633327;
 }
 
 .btn-primary:focus, .btn-primary.focus {
   color: #fff;
-  background-color: #2F5030;
-  border-color: #2F5030;
+  background-color: #67590c;
+  border-color: #67590c;
   box-shadow: 0 0 0 0.2rem rgba(38, 143, 255, 0.5);
 }
 
@@ -2918,14 +2924,16 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-success {
-  color: #28a745;
-  border-color: #AC9E97;
+  color: #633327;
+  border-color: #633327;
 }
 
 .btn-outline-success:hover {
   color: #fff;
-  background-color: #2F5030;
-  border-color: #2F5030;
+
+  background-color: #67590c;
+
+  border-color: #633327;
 }
 
 .btn-outline-success:focus, .btn-outline-success.focus {
@@ -10225,6 +10233,7 @@ a.text-dark:hover, a.text-dark:focus {
     border-color: #dee2e6;
   }
 }
+
 /* For Social media icons */
 .fa {
   padding: 20px;
@@ -10274,4 +10283,9 @@ a.text-dark:hover, a.text-dark:focus {
   color: white;
 }
 /* End of social media icons */
+=======
+.h5-slide {
+    color:white;
+}
+
 /*# sourceMappingURL=bootstrap.css.map */
