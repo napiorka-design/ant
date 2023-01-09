@@ -4225,6 +4225,10 @@ input[type="button"].btn-block {
   }
 }
 
+nav{
+  color: lightblue;
+}
+
 .nav {
   display: -ms-flexbox;
   display: flex;
@@ -4252,7 +4256,7 @@ input[type="button"].btn-block {
 }
 
 .nav-tabs {
-  border-bottom: 1px solid #dee2e6;
+  border-bottom: 1px solid #c9d9e9;
 }
 
 .nav-tabs .nav-item {
@@ -4678,7 +4682,7 @@ input[type="button"].btn-block {
 }
 
 .navbar-dark .navbar-brand {
-  color: #fff;
+  color: rgb(236, 117, 117);
 }
 
 .navbar-dark .navbar-brand:hover, .navbar-dark .navbar-brand:focus {
