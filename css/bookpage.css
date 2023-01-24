@@ -22,7 +22,6 @@
   height: 420px;
   text-align: center;
   padding: 5px;
-  border: 1px solid #919191;
   margin: auto 20px;
 }
 
@@ -126,7 +125,7 @@ li{
 @media (max-width: 991px){
   .product-item{
       width: 100% !important
-  }
+}
   
 }
 .product-top .product-sec h5{
