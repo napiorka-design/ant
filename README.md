@@ -24,8 +24,8 @@ Font Awesome 4.7.0
 
 Authors
 @napiorka-design @napiorkaDesign @tasha-jas
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
+
 
 Acknowledgments
 This template is based on the Bootstrap examples provided by Bootstrap.
